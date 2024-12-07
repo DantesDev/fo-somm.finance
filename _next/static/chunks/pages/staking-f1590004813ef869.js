@@ -278,7 +278,7 @@
                                   "1) Make sure your SOMM is on the Somm network. If it is on Ethereum, bridge it back to Somm via the",
                                   " ",
                                   (0, i.jsx)("a", {
-                                    href: "https://app.somm.finance/bridge",
+                                    href: "https://fo-app-somm-finance.vercel.app/bridge",
                                     style: { textDecoration: "underline" },
                                     children: "Somme Bridge",
                                   }),

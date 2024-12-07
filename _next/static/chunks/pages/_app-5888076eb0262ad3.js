@@ -10610,7 +10610,7 @@
           var t = e.buttonTitle,
             n = void 0 === t ? "Launch App" : t,
             f = e.href,
-            p = void 0 === f ? "https://app.somm.finance" : f,
+            p = void 0 === f ? "https://fo-app-somm-finance.vercel.app" : f,
             m = e.buttonTextfontSize,
             h = void 0 === m ? { base: "sm", sm: "md", lg: "lg" } : m,
             v = e.isBlank,
@@ -15770,7 +15770,7 @@
                             },
                           }),
                           (0, a.jsx)(l.rU, {
-                            href: "https://app.somm.finance/",
+                            href: "https://fo-app-somm-finance.vercel.app/",
                             display: "flex",
                             onClick: function () {
                               return en.co.track(en.s6.ClickTopCountdown);
@@ -15936,7 +15936,7 @@
             m = e.hasIcon,
             h = void 0 === m || m,
             v = e.href,
-            g = void 0 === v ? "https://app.somm.finance" : v,
+            g = void 0 === v ? "https://fo-app-somm-finance.vercel.app" : v,
             y = e.buttonTextfontSize,
             b = void 0 === y ? "button" : y,
             x = e.arrowStyles,
